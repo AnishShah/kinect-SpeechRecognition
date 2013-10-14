@@ -62,7 +62,7 @@ namespace KinectSpeechRecognition
 
             if (kinectRecognizerInfo == null)
             {
-                MessageBox.Show("Kinect recognizer not found", "Kinect Speech Demo");
+                setupSpeechOutput("Kinect recognizer not found");
                 Application.Current.Shutdown();
                 return;
             }
@@ -73,7 +73,7 @@ namespace KinectSpeechRecognition
             }
             catch
             {
-                MessageBox.Show("Speech recognition engine could not be loaded", "Kinect Speech Demo");
+                setupSpeechOutput("Speech recognition engine could not be loaded");
                 Application.Current.Shutdown();
             }
         }
@@ -122,7 +122,7 @@ namespace KinectSpeechRecognition
             buildCommands();
 
             setupAudio();
-
+            setupSpeechOutput("Ready to Go!");
             recognizer.SpeechRecognized +=
                 new EventHandler<SpeechRecognizedEventArgs>(recognizer_SpeechRecognized);
         }      
@@ -161,7 +161,6 @@ namespace KinectSpeechRecognition
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             SetupSpeechRecognition();
-            setupSpeechOutput("Ready to go");
         }
     }
 }
