@@ -110,7 +110,7 @@ namespace KinectSpeechRecognition
             }
             catch
             {
-                MessageBox.Show("Audio stream could not be connected","Kinect Speech Demo");
+                setupSpeechOutput("Audio stream could not be connected");
                 Application.Current.Shutdown();
             }
         }
