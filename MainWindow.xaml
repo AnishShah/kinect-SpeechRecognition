@@ -1,0 +1,8 @@
+﻿<Window x:Class="KinectSpeechRecognition.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Color Recognizer" SizeToContent="WidthAndHeight" Loaded="Window_Loaded">
+    <StackPanel>
+        <TextBlock Name="wordTextBlock" TextAlignment="Center" FontSize="64" Width="400"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,53 @@
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\bin\Debug\KinectSpeechRecognition.exe
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\bin\Debug\KinectSpeechRecognition.pdb
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition_MarkupCompile.cache
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.g.resources
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.Properties.Resources.resources
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.exe
+C:\Users\Rob\Desktop\KinectSpeechRecognition\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\bin\Debug\KinectSpeechRecognition.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\bin\Debug\KinectSpeechRecognition.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos SDK\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 09 Voice Control with Kinect\Demos SDK\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.pdb
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\bin\Debug\KinectSpeechRecognition.exe
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\bin\Debug\KinectSpeechRecognition.pdb
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.g.resources
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.exe
+C:\Users\Rob\Desktop\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.pdb
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\bin\Debug\KinectSpeechRecognition.exe
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\bin\Debug\KinectSpeechRecognition.pdb
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\App.g.cs
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition_MarkupCompile.cache
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.g.resources
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.Properties.Resources.resources
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.csproj.GenerateResource.Cache
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.exe
+C:\Users\eashanrocks\Downloads\Kinect Start Here Companion Content\Chapter 09 Demos\01 Kinect Speech Recognition demo\KinectSpeechRecognition\obj\x86\Debug\KinectSpeechRecognition.pdb
